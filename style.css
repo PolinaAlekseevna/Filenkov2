@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:yellowgreen;
+    padding: 10px;
+}
+header a{
+    background-color:black;
+    color:#ffffffff;
+    padding: 2px;
+    text-decoration: none;
+    border-radius: 23px;
+}
+main h1{
+    color:yellowgreen;
+    text-align: center;
+}
+footer p{
+    border:3px solid yellowgreen;
+} 
+nav a {
+    text-decoration: none;
+    margin: 14px;
+    padding: 5px;
+    border:1px solid yellowgreen;
+}
+nav{
+    margin:13px;
+}
+.produkt{
+    background-color:rgb(255, 0, 221);
+    border-radius: 26px;
+    padding-left: 43px;
+}
+main{
+    padding: 16px;
+}
+h2{
+    color:pink;;
+}
